@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @paulvisciano
-- 👀 I’m interested in bridging the gap between Humanity and Technology
-- 🌱 I’m currently learning to remove any self imposed limitations
-- 💞️ I’m looking to collaborate on democratizing music
-
-<!---
-paulvisciano/paulvisciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Paul Visciano
+Principal Engineer and Urban Runner creator — building a unified 4D application that captures my life across space and time, transforming real experiences into a comic-book universe with the help of AI.
+Published at https://paulvisciano.github.io/
