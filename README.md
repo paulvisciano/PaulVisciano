@@ -1,7 +1,7 @@
 # Paul Visciano
 
 Creative Technologist · Designer · Engineer  
-Building **Sci-Fi Labs**
+Founder of **Sci-Fi Labs**
 
 I design and build **Sci-Fi apps** — spatial products meant to work equally well on the web, on mobile, and in 3D / XR. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory in space, music as instruments you can turn.
 
