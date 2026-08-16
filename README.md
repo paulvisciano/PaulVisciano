@@ -1,28 +1,33 @@
 # Paul Visciano
 
-Creative Technologist · Designer · Engineer
+Creative Technologist · Designer · Engineer  
+Building **Sci-Fi Labs**
 
-I build experiences that sit at the intersection of design, technology, and lived reality — minimal interfaces for mobile, desktop, and augmented reality, and spatial systems that turn a life into something navigable.
+I design and build **Sci-Fi apps** — spatial products meant to work equally well on the web, on mobile, and in 3D / XR. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory in space, music as instruments you can turn.
 
-### Currently
+The thesis is simple: **make science fiction real**, and ship it across every surface.
 
-Creating **[Where is Paul?](https://paulvisciano.github.io/)** — a living spatial record of adventure, travel, and self-challenge.  
-An interactive 3D globe and timeline that captures moments across space and time, transforming real photographs and experiences into AI-generated comic sequences, mixed-media stories, and human voices.  
-It exists as a deliberate trail left to inspire the future generation — proof that a full, far-reaching life is possible.
+### Sci-Fi apps
 
-Building **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a private spatial interface for memory and knowledge.  
-Conversations, photos, and voice notes float on an infinite canvas of time. Scroll to move through days and months, speak to query or add — everything runs locally on your own machine. A reimagining of AI interaction as a sovereign personal command space rather than a chat window.
+**[Where is Paul?](https://paulvisciano.github.io/)** — a living spatial record of a life  
+An interactive 3D globe and timeline of moments across space and time. Real photographs and experiences become mixed-media stories, AI-generated comics, and human voices — a deliberate trail of adventure left for the next generation.
 
-Building **[Musical Cubes](https://musical-cubes.vercel.app)** — music production reimagined.  
-Tracks live as rotating 3D cubes; each face is an instrument stem you can play, loop, and sync in real time. A tactile, visual alternative to the timeline-and-tracks DAW — built as a cross-platform PWA and native app so making sound feels like playing, not operating software.
+**[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a sovereign memory space  
+Conversations, photos, and voice notes float on an infinite canvas of time. Scroll through days and months; speak to query or add. Everything runs locally — AI as a spatial command space you own, not a chat window you rent.
+
+**[Musical Cubes](https://musical-cubes.vercel.app)** — music production in 3D  
+Tracks live as rotating cubes; each face is an instrument stem you play, loop, and sync in real time. A tactile alternative to the timeline DAW — web, PWA, and native mobile from one codebase.
+
+One thread across all three: **spatial interfaces for web, mobile, and virtual reality.**
 
 ### Elsewhere
 
-- **Portfolio & other work** → [paulvisciano.vercel.app](https://paulvisciano.vercel.app/)
+- **Portfolio** → [paulvisciano.vercel.app](https://paulvisciano.vercel.app/)
 - **Where is Paul?** → [paulvisciano.github.io](https://paulvisciano.github.io/)
 - **Knowledge Graph** → [github.com/paulvisciano/knowledge-graph](https://github.com/paulvisciano/knowledge-graph)
 - **Musical Cubes** → [musical-cubes.vercel.app](https://musical-cubes.vercel.app) · [repo](https://github.com/paulvisciano/musical-cubes)
 
 ---
 
-*Sci-Fi is reality.*
+*Sci-Fi is reality.*  
+*Let’s build the future together.*
