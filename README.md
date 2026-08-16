@@ -1,7 +1,7 @@
 # Paul Visciano
 
 <p align="center">
-  <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial apps for web, mobile, and XR" width="100%" />
+  <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial apps for web, mobile, and XR" width="480" />
 </p>
 
 Creative Technologist · Designer · Engineer  
