@@ -4,9 +4,6 @@
   <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial apps for web, mobile, and XR" width="480" />
 </p>
 
-Creative Technologist · Designer · Engineer  
-Founder of **Sci-Fi Labs**
-
 I design and build **Sci-Fi apps** — spatial products meant to work equally well on the web, on mobile, and in 3D / XR. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory in space, music as instruments you can turn.
 
 The thesis is simple: **make science fiction real**, and ship it across every surface.
