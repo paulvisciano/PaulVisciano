@@ -10,7 +10,7 @@ The goal is simple: **make science fiction real**, and ship it across every surf
 
 ### Sci-Fi apps
 
-**[Where is Paul?](https://paulvisciano.github.io/)** — a spatial record of a life  
+**[Where is Paul?](https://paulvisciano.com)** — a spatial record of a life  
 An interactive 3D globe and timeline of moments across space and time. Photographs and experiences become mixed-media stories, AI-generated comics, and voice notes — a personal archive designed to last.
 
 **[JARVIS](https://github.com/paulvisciano/JARVIS)** — the original sovereign mind  
@@ -22,19 +22,18 @@ Interactive 3D neural graph of people, places, activities, emotions, and time. T
 **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a sovereign memory space  
 Conversations, photos, and voice notes live on an infinite canvas of time. Scroll through days and months; speak to query or add. Local AI that can see images, transcribe voice, extract entities, and write them back into the graph. Everything runs on hardware you own.
 
-**[Musical Cubes](https://musical-cubes.vercel.app)** — music production in 3D  
+**[Musical Cubes](https://paulvisciano.com)** — music production in 3D  
 Tracks exist as rotating cubes; each face is an instrument stem you can play, loop, and sync in real time. A tactile alternative to the traditional timeline DAW — available as web, PWA, and native mobile from a single codebase.
 
 One consistent thread across all of them: **spatial interfaces for web, mobile, and XR.**
 
 ### Elsewhere
 
-- **Portfolio** → [paulvisciano.vercel.app](https://paulvisciano.vercel.app/)
-- **Where is Paul?** → [paulvisciano.github.io](https://paulvisciano.github.io/)
+- **Portfolio** → [paulvisciano.com](https://paulvisciano.com)
 - **JARVIS** → [github.com/paulvisciano/JARVIS](https://github.com/paulvisciano/JARVIS)
 - **Neuro Graph** → [github.com/paulvisciano/neuro-graph](https://github.com/paulvisciano/neuro-graph)
 - **Knowledge Graph** → [github.com/paulvisciano/knowledge-graph](https://github.com/paulvisciano/knowledge-graph)
-- **Musical Cubes** → [musical-cubes.vercel.app](https://musical-cubes.vercel.app) · [repo](https://github.com/paulvisciano/musical-cubes)
+- **Musical Cubes** → [github.com/paulvisciano/musical-cubes](https://github.com/paulvisciano/musical-cubes)
 
 ---
 
