@@ -10,19 +10,19 @@ The goal is simple: **make science fiction real**, and ship it across every surf
 
 ### Sci-Fi apps
 
-**[Where is Paul?](https://paulvisciano.com/apps)** — a spatial record of a life  
+**[Where is Paul?](https://paulvisciano.com/apps/where-is-paul/)** — a spatial record of a life  
 An interactive 3D globe and timeline of moments across space and time. Photographs and experiences become mixed-media stories, AI-generated comics, and voice notes — a personal archive designed to last.
 
 **[JARVIS](https://github.com/paulvisciano/JARVIS)** — the original sovereign mind  
 Git-backed neural memory with a cinematic 3D interface. Built in response to the limitations of OpenClaw’s memory system. Every commit becomes a learning event. The dual neurograph visualizes both the agent’s technical mind and the user’s life context. This project became the foundation for Neuro Graph and Knowledge Graph.
 
-**[Neuro Graph](https://paulvisciano.com/apps)** — memory as a living network  
+**[Neuro Graph](https://paulvisciano.com/apps/neuro-graph/)** — memory as a living network  
 Interactive 3D neural graph of people, places, activities, emotions, and time. The public visualization layer of the personal memory system.
 
 **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a sovereign memory space  
 Conversations, photos, and voice notes live on an infinite canvas of time. Scroll through days and months; speak to query or add. Local AI that can see images, transcribe voice, extract entities, and write them back into the graph. Everything runs on hardware you own.
 
-**[Musical Cubes](https://paulvisciano.com/apps)** — music production in 3D  
+**[Musical Cubes](https://paulvisciano.com/apps/musical-cubes#/)** — music production in 3D  
 Tracks exist as rotating cubes; each face is an instrument stem you can play, loop, and sync in real time. A tactile alternative to the traditional timeline DAW — available as web, PWA, and native mobile from a single codebase.
 
 One consistent thread across all of them: **spatial interfaces for web, mobile, and XR.**
@@ -30,11 +30,11 @@ One consistent thread across all of them: **spatial interfaces for web, mobile, 
 ### Elsewhere
 
 - **Portfolio** → [paulvisciano.com](https://paulvisciano.com)
-- **Apps** → [paulvisciano.com/apps](https://paulvisciano.com/apps)
+- **Where is Paul?** → [paulvisciano.com/apps/where-is-paul/](https://paulvisciano.com/apps/where-is-paul/)
+- **Neuro Graph** → [paulvisciano.com/apps/neuro-graph/](https://paulvisciano.com/apps/neuro-graph/)
+- **Musical Cubes** → [paulvisciano.com/apps/musical-cubes#/](https://paulvisciano.com/apps/musical-cubes#/)
 - **JARVIS** → [github.com/paulvisciano/JARVIS](https://github.com/paulvisciano/JARVIS)
-- **Neuro Graph** → [github.com/paulvisciano/neuro-graph](https://github.com/paulvisciano/neuro-graph)
 - **Knowledge Graph** → [github.com/paulvisciano/knowledge-graph](https://github.com/paulvisciano/knowledge-graph)
-- **Musical Cubes** → [github.com/paulvisciano/musical-cubes](https://github.com/paulvisciano/musical-cubes)
 
 ---
 
