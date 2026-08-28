@@ -40,4 +40,3 @@ One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 ---
 
 *Sci-Fi Labs · Spatial web apps.*  
-*Let’s build the future together.*
