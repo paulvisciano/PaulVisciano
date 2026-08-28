@@ -20,7 +20,7 @@ A spatial app for sound: tracks as rotating cubes; each face is an instrument st
 **[Neuro Graph](https://paulvisciano.com/apps/neuro-graph/)** — memory as a living network  
 Spatial web app: interactive 3D neural graph of people, places, activities, emotions, and time.
 
-**[The Secret Family](https://github.com/paulvisciano/the-secret-family)** — a hierarchy you can walk  
+**[The Secret Family](https://paulvisciano.com/apps/the-secret-family/)** — a hierarchy you can walk  
 Spatial web app: an interactive graph of power and relationships in the browser.
 
 One thread: **spatial apps on the web** that can grow into XR without a rewrite.
@@ -40,3 +40,4 @@ One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 ---
 
 *Sci-Fi Labs · Spatial web apps.*  
+*Let’s build the future together.*
