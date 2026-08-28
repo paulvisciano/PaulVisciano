@@ -11,21 +11,24 @@ Sci-Fi is the feel. Spatial is the interface. Web is how you open it.
 ### Spatial web apps
 
 **[Where is Paul?](https://paulvisciano.com/apps/where-is-paul/)** — a spatial record of a life  
-A spatial app: interactive 3D globe and timeline. Photographs and experiences become mixed-media stories, comics, and voice notes — a personal archive designed to last. Open the URL on a phone, a desk, or in Safari on Vision Pro.
-
-**[JARVIS](https://github.com/paulvisciano/JARVIS)** — the original sovereign mind  
-Git-backed neural memory with a cinematic 3D interface. Built in response to the limitations of OpenClaw’s memory system. Every commit becomes a learning event. The dual neurograph visualizes both the agent’s technical mind and the user’s life context. Foundation for Neuro Graph and Knowledge Graph.
-
-**[Neuro Graph](https://paulvisciano.com/apps/neuro-graph/)** — memory as a living network  
-Spatial web app: interactive 3D neural graph of people, places, activities, emotions, and time. The public visualization layer of the personal memory system.
-
-**[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a sovereign memory space  
-Conversations, photos, and voice notes on an infinite canvas of time. Local AI that can see images, transcribe voice, extract entities, and write them back into the graph. Everything runs on hardware you own.
+A spatial web app: interactive 3D globe and timeline. Photographs and experiences become mixed-media stories, comics, and voice notes. Open the URL on a phone or a desk. On Vision Pro, open the same URL in Safari. Pinch to zoom. Look to look around.  
+Clone the repo and swap `moments/moments.js` — that is the only file you need to change.
 
 **[Musical Cubes](https://paulvisciano.com/apps/musical-cubes#/)** — music production in 3D  
-A spatial app for sound: tracks as rotating cubes; each face is an instrument stem. Web, PWA, and native mobile from one codebase.
+A spatial app for sound: tracks as rotating cubes; each face is an instrument stem. Same URL on web and phone.
+
+**[Neuro Graph](https://paulvisciano.com/apps/neuro-graph/)** — memory as a living network  
+Spatial web app: interactive 3D neural graph of people, places, activities, emotions, and time.
+
+**[The Secret Family](https://github.com/paulvisciano/the-secret-family)** — a hierarchy you can walk  
+Spatial web app: an interactive graph of power and relationships in the browser.
 
 One thread: **spatial apps on the web** that can grow into XR without a rewrite.
+
+### Elsewhere / private
+
+- **[JARVIS](https://github.com/paulvisciano/JARVIS)** — Git-backed neural memory with a cinematic 3D interface. Foundation for Neuro Graph and Knowledge Graph.
+- **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — private sovereign memory canvas. Local AI only. Not a public campaign.
 
 ### Elsewhere
 
@@ -33,8 +36,6 @@ One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 - **Where is Paul?** → [paulvisciano.com/apps/where-is-paul/](https://paulvisciano.com/apps/where-is-paul/)
 - **Neuro Graph** → [paulvisciano.com/apps/neuro-graph/](https://paulvisciano.com/apps/neuro-graph/)
 - **Musical Cubes** → [paulvisciano.com/apps/musical-cubes#/](https://paulvisciano.com/apps/musical-cubes#/)
-- **JARVIS** → [github.com/paulvisciano/JARVIS](https://github.com/paulvisciano/JARVIS)
-- **Knowledge Graph** → [github.com/paulvisciano/knowledge-graph](https://github.com/paulvisciano/knowledge-graph)
 
 ---
 
