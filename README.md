@@ -1,31 +1,31 @@
 # Paul Visciano
 
 <p align="center">
-  <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial apps for web, mobile, and XR" width="480" />
+  <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial web apps for phone, desk, and headset" width="480" />
 </p>
 
-I design and build **Sci-Fi apps** — spatial products for web, mobile, and XR. Not chat windows or traditional timeline tools, but environments you can move through: a life mapped on a globe, memory organized in space, and music production as rotating instruments you can play in real time.
+**Sci-Fi Labs** builds **spatial web apps** — spatial apps that run in the browser first, then on phone and headset from the same URL. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory organized in space, music as cubes you turn.
 
-The goal is simple: **make science fiction real**, and ship it across every surface.
+Sci-Fi is the feel. Spatial is the interface. Web is how you open it.
 
-### Sci-Fi apps
+### Spatial web apps
 
 **[Where is Paul?](https://paulvisciano.com/apps/where-is-paul/)** — a spatial record of a life  
-An interactive 3D globe and timeline of moments across space and time. Photographs and experiences become mixed-media stories, AI-generated comics, and voice notes — a personal archive designed to last.
+A spatial app: interactive 3D globe and timeline. Photographs and experiences become mixed-media stories, comics, and voice notes — a personal archive designed to last. Open the URL on a phone, a desk, or in Safari on Vision Pro.
 
 **[JARVIS](https://github.com/paulvisciano/JARVIS)** — the original sovereign mind  
-Git-backed neural memory with a cinematic 3D interface. Built in response to the limitations of OpenClaw’s memory system. Every commit becomes a learning event. The dual neurograph visualizes both the agent’s technical mind and the user’s life context. This project became the foundation for Neuro Graph and Knowledge Graph.
+Git-backed neural memory with a cinematic 3D interface. Built in response to the limitations of OpenClaw’s memory system. Every commit becomes a learning event. The dual neurograph visualizes both the agent’s technical mind and the user’s life context. Foundation for Neuro Graph and Knowledge Graph.
 
 **[Neuro Graph](https://paulvisciano.com/apps/neuro-graph/)** — memory as a living network  
-Interactive 3D neural graph of people, places, activities, emotions, and time. The public visualization layer of the personal memory system.
+Spatial web app: interactive 3D neural graph of people, places, activities, emotions, and time. The public visualization layer of the personal memory system.
 
 **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — a sovereign memory space  
-Conversations, photos, and voice notes live on an infinite canvas of time. Scroll through days and months; speak to query or add. Local AI that can see images, transcribe voice, extract entities, and write them back into the graph. Everything runs on hardware you own.
+Conversations, photos, and voice notes on an infinite canvas of time. Local AI that can see images, transcribe voice, extract entities, and write them back into the graph. Everything runs on hardware you own.
 
 **[Musical Cubes](https://paulvisciano.com/apps/musical-cubes#/)** — music production in 3D  
-Tracks exist as rotating cubes; each face is an instrument stem you can play, loop, and sync in real time. A tactile alternative to the traditional timeline DAW — available as web, PWA, and native mobile from a single codebase.
+A spatial app for sound: tracks as rotating cubes; each face is an instrument stem. Web, PWA, and native mobile from one codebase.
 
-One consistent thread across all of them: **spatial interfaces for web, mobile, and XR.**
+One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 
 ### Elsewhere
 
@@ -38,5 +38,5 @@ One consistent thread across all of them: **spatial interfaces for web, mobile, 
 
 ---
 
-*Sci-Fi is reality.*  
+*Sci-Fi Labs · Spatial web apps.*  
 *Let’s build the future together.*
