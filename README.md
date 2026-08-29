@@ -4,7 +4,7 @@
   <img src="https://pub-9466bb5132e74aeba333004ad0c21f21.r2.dev/sci-fi-labs.jpg" alt="Sci-Fi Labs — spatial web apps for phone, desk, and headset" width="480" />
 </p>
 
-**Sci-Fi Labs** builds **spatial web apps** — spatial apps that run in the browser first, then on phone and headset from the same URL. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory organized in space, music as cubes you turn.
+**Not so static, static sites.** **Sci-Fi Labs** builds **spatial web apps** — spatial apps that run in the browser first, then on phone and headset from the same URL. Not chat windows or timeline tools. Environments you move through: a life on a globe, memory organized in space, music as cubes you turn.
 
 Sci-Fi is the feel. Spatial is the interface. Web is how you open it.
 
