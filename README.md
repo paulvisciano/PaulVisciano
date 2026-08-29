@@ -8,6 +8,8 @@
 
 Sci-Fi is the feel. Spatial is the interface. Web is how you open it.
 
+The point underneath: your life is your data. Conversations, photos, documents, moments — mapped in time, browsed on your own machine, instead of sitting in someone else's cloud training their models. The spatial UI is how you navigate what's yours.
+
 ### Spatial web apps
 
 **[Where is Paul?](https://paulvisciano.com/apps/where-is-paul/)** — a spatial record of a life  
@@ -28,7 +30,7 @@ One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 ### Elsewhere / private
 
 - **[JARVIS](https://github.com/paulvisciano/JARVIS)** — Git-backed neural memory with a cinematic 3D interface. Foundation for Neuro Graph and Knowledge Graph.
-- **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — private sovereign memory canvas. Local AI only. Not a public campaign.
+- **[Knowledge Graph](https://github.com/paulvisciano/knowledge-graph)** — private journal of your conversations, photos, and documents. Local AI only. A labeled demo of the running UI is coming, plus a how-to for wiring it into your own stack.
 
 ### Elsewhere
 
@@ -40,4 +42,4 @@ One thread: **spatial apps on the web** that can grow into XR without a rewrite.
 ---
 
 *Sci-Fi Labs · Spatial web apps.*  
-*Let’s build the future together.*
+*Let's build the future together.*
